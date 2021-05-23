@@ -32,3 +32,5 @@ HEAD commit is the commit that we are currently on.
 - git clone remote_location clone_name:
   - remote_location: can be a web adress or filepath
   - clone_name: the name we give to the directory which Git will clone the repo into. clone_name is the local copy of the remote_location Git project. Whatever we commit in clone_name, the owner of the origin remote_location will not know about those commits.
+  - Behind the scene, Git gives the remote_location the name origin to refer it more conveniently.
+    - git remote -v: To see the list of Git project's remotes
