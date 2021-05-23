@@ -26,3 +26,9 @@ HEAD commit is the commit that we are currently on.
 - git branch new_branch: To create new_branch
 - git checkout branch_name: To switch to branch_name
 - git merge branch_name: To merge branch name to master. We need to have git checkout master to back to master first.
+- git branch -d branch_name: To delete branch_name
+
+### git Teamwork
+- git clone remote_location clone_name:
+  - remote_location: can be a web adress or filepath
+  - clone_name: the name we give to the directory which Git will clone the repo into. clone_name is the local copy of the remote_location Git project. Whatever we commit in clone_name, the owner of the origin remote_location will not know about those commits.
