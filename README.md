@@ -2,7 +2,7 @@
 ---
 This is the place to practice Git and GitHub
 ---
-# Some Steps to Remember:
+### Some Steps to Remember:
 - Create new repo in GitHub
 - Get the syntax to connect the new repo with the local git directory
 - In the local directory:
