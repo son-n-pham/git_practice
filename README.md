@@ -32,7 +32,9 @@ HEAD commit is the commit that we are currently on.
 - git clone remote_location clone_name:
   - remote_location: can be a web adress or filepath
   - clone_name: the name we give to the directory which Git will clone the repo into. clone_name is the local copy of the remote_location Git project. Whatever we commit in clone_name, the owner of the origin remote_location will not know about those commits.
-- git remote -v: To see the list of Git project's remotes. Behind the scene, Git gives the remote_location the name origin to refer it more conveniently.
+- git remote:
+  - git remote origin add origin "Link of the git repo" // This is to connect our local drive to github page
+  - git remote -v: To see the list of Git project's remotes. Behind the scene, Git gives the remote_location the name origin to refer it more conveniently.
 - git fetch: to update the repo from remote. After git fetch, we need to run git merge origin/master to merge the fetching with the local master.
 - Create a branch to work on a new project feature
 - Develop feature in the branch, commit work
