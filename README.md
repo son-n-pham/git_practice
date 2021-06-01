@@ -40,3 +40,13 @@ HEAD commit is the commit that we are currently on.
 - Develop feature in the branch, commit work
 - Fetch and merge from the remote again (In case the remote have some update while we are working)
 - git push origin <branch_name>: Push our branch_name to the remote for review.
+
+### Some Steps to Remember First:
+- Create new repo in GitHub
+- Get the syntax to connect the new repo with the local git directory
+  - git init
+  - Check git status: git status
+  - Add file to track: git add filename
+  - Commit file(s): git commit -m "Description of the change"
+- git remote:
+  - git remote origin "Link of the git repo" // This is to connect our local drive to github page
