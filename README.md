@@ -40,4 +40,3 @@ HEAD commit is the commit that we are currently on.
 - Develop feature in the branch, commit work
 - Fetch and merge from the remote again (In case the remote have some update while we are working)
 - git push origin <branch_name>: Push our branch_name to the remote for review.
-ori
