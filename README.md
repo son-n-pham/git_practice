@@ -1,4 +1,4 @@
-# git_practice
+# This is my collection of useful Git and GitHub tips
 ---
 This is the place to practice Git and GitHub
 ---
