@@ -62,4 +62,3 @@ HEAD commit is the commit that we are currently on.
 ![link_when_page_image](https://user-images.githubusercontent.com/79841341/124356826-cffbac00-dc4a-11eb-8126-c27383ed8097.png)
 - Copy the generated markdown from the image into your markdown file or wiki page. You can of course change the generic [image] to something more reflective of the image, as this is used for the alt tag.
 - Repeat as needed. You can close the issue and keep it around for additional images in the future, or just abandon it and never save it. Uploaded images on an issue that is never saved are still retained. You can also use the same trick in comments on issues, so you could easily just add one comment per image you need to add as well.
-  
