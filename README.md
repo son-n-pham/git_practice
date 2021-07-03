@@ -51,3 +51,12 @@ HEAD commit is the commit that we are currently on.
   - Commit file(s): git commit -m "Description of the change"
 - git remote:
   - git remote origin "Link of the git repo" // This is to connect our local drive to github page
+
+ ### [Quick way to add image to MarkDown in GitHub](https://ardalis.com/add-images-easily-to-github/)
+  Here are the steps to stay in GitHub in your browser and still be able to add images to your content using copy-paste.
+- On your repository where you want to add images to markdown files, wiki pages, etc. create an Issue. Call it "Images".
+  ![Issue_page](https://user-images.githubusercontent.com/79841341/124356726-3502d200-dc4a-11eb-852a-6fd6bb8b505e.png)
+- Now get an image, perhaps using the Windows Snipping Tool or SnagIt, and copy it.
+  ![image](https://user-images.githubusercontent.com/79841341/124356764-70050580-dc4a-11eb-8b63-a408befa2ada.png)
+
+  
