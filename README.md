@@ -54,7 +54,13 @@ HEAD commit is the commit that we are currently on.
 
  ### Quick way to add image to MarkDown in GitHub (Updated)
  This is the most convenient way that I found out and usually apply.
- - From copied image by screenshot:
+  
+#### From image with link: Just use the syntax
+  ```Markdown
+  ![Description_of_image](link of the image)
+  ```
+  
+#### From copied image by screenshot:
   - Step 1: Copy image by screenshot or existing image by Ctrl+C
   ![image](https://user-images.githubusercontent.com/79841341/126900398-bae03ca7-2984-4ee1-ad1c-d9e32966571c.png)
   
@@ -65,7 +71,4 @@ HEAD commit is the commit that we are currently on.
   
   - Step 3: Commit the change to check the image in the view mode.
   
-- From image with link: Just use the syntax
-  ```Markdown
-  ![Description_of_image](link of the image)
-  ```
+
