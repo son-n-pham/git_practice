@@ -67,7 +67,7 @@ HEAD commit is the commit that we are currently on.
   - Step 2: Paste directly to GitHub Markdown editing box. GitHub generate link of the image.
   ![image](https://user-images.githubusercontent.com/79841341/126900698-da97ffe1-ce63-49aa-ab17-38a30360fb9d.png)
   
-  ![image](https://user-images.githubusercontent.com/79841341/126900714-07a24bef-e860-4630-bcf1-5e73975ff721.png)
+    ![image](https://user-images.githubusercontent.com/79841341/126900730-8f0299ce-6350-4789-bbde-140148dce0f1.png)
   
   - Step 3: Commit the change to check the image in the view mode.
   
