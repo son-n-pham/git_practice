@@ -65,9 +65,9 @@ HEAD commit is the commit that we are currently on.
   ![image](https://user-images.githubusercontent.com/79841341/126900678-5951dbd7-01dd-41b3-90a1-8af81b248952.png)
   
   - Step 2: Paste directly to GitHub Markdown editing box. GitHub generate link of the image.
-  ![image](https://user-images.githubusercontent.com/79841341/126900668-8852d004-ab23-4f15-b917-aa58df0c4d45.png)
+  ![image](https://user-images.githubusercontent.com/79841341/126900698-da97ffe1-ce63-49aa-ab17-38a30360fb9d.png)
   
-  ![image](https://user-images.githubusercontent.com/79841341/126900659-e56539d9-6214-4e92-b3d4-72a3f3e24ff5.png)
+  ![image](https://user-images.githubusercontent.com/79841341/126900714-07a24bef-e860-4630-bcf1-5e73975ff721.png)
   
   - Step 3: Commit the change to check the image in the view mode.
   
