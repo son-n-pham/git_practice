@@ -64,6 +64,7 @@ HEAD commit is the commit that we are currently on.
   ![image](https://user-images.githubusercontent.com/79841341/126900503-2f0b9f0d-9417-46c3-8dc7-890db08fdcc4.png)
   
   - Step 3: Commit the change to check the image in the view mode.
+  
 - From image with link: Just use the syntax
   ```Markdown
   ![Description_of_image](link of the image)
