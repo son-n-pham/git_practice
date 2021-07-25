@@ -62,12 +62,12 @@ HEAD commit is the commit that we are currently on.
   
 #### From copied image by screenshot:
   - Step 1: Copy image by screenshot or existing image by Ctrl+C
-  ![image](https://user-images.githubusercontent.com/79841341/126900606-cb79971a-5030-4883-aba4-0e26cf4d9f17.png)
+  ![image](https://user-images.githubusercontent.com/79841341/126900678-5951dbd7-01dd-41b3-90a1-8af81b248952.png)
   
   - Step 2: Paste directly to GitHub Markdown editing box. GitHub generate link of the image.
-  ![image](https://user-images.githubusercontent.com/79841341/126900618-991f8d84-df44-42fa-a190-9421e71369b7.png)
+  ![image](https://user-images.githubusercontent.com/79841341/126900668-8852d004-ab23-4f15-b917-aa58df0c4d45.png)
   
-  ![image](https://user-images.githubusercontent.com/79841341/126900632-6c4c0cb9-dd42-406a-b292-77a16891ca9f.png)
+  ![image](https://user-images.githubusercontent.com/79841341/126900659-e56539d9-6214-4e92-b3d4-72a3f3e24ff5.png)
   
   - Step 3: Commit the change to check the image in the view mode.
   
