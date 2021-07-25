@@ -52,13 +52,19 @@ HEAD commit is the commit that we are currently on.
 - git remote:
   - git remote origin "Link of the git repo" // This is to connect our local drive to github page
 
- ### [Quick way to add image to MarkDown in GitHub](https://ardalis.com/add-images-easily-to-github/)
-  Here are the steps to stay in GitHub in your browser and still be able to add images to your content using copy-paste. This is from the following link https://ardalis.com/add-images-easily-to-github/
-- In the repo where we want to add images to markdown files, wiki pages, etc. create an Issue. Call it "Images".
-  ![Issue_page](https://user-images.githubusercontent.com/79841341/124356726-3502d200-dc4a-11eb-852a-6fd6bb8b505e.png)
-- Now get an image, perhaps using the Windows Snipping Tool or SnagIt.
-  ![Issue_page_before_paste_image](https://user-images.githubusercontent.com/79841341/124356764-70050580-dc4a-11eb-8b63-a408befa2ada.png)
-- Paste into the body of the issue you created. We should see it upload quickly and then display markdown with a URL. Note that we can also use drag-and-drop or click on "selecting them" to upload. **We do not need to save the issue.**
-![link_when_page_image](https://user-images.githubusercontent.com/79841341/124356826-cffbac00-dc4a-11eb-8126-c27383ed8097.png)
-- Copy the generated markdown from the image into your markdown file or wiki page. We can of course change the generic [image] to something more reflective of the image, as this is used for the alt tag.
-- Repeat as needed. We can close the issue and keep it around for additional images in the future, or just abandon it and never save it. Uploaded images on an issue that is never saved are still retained. You can also use the same trick in comments on issues, so you could easily just add one comment per image you need to add as well.
+ ### Quick way to add image to MarkDown in GitHub (Updated)
+ This is the most convenient way that I found out and usually apply.
+ - From copied image by screenshot:
+  - Step 1: Copy image by screenshot or existing image by Ctrl+C
+  ![image](https://user-images.githubusercontent.com/79841341/126900398-bae03ca7-2984-4ee1-ad1c-d9e32966571c.png)
+  
+  - Step 2: Paste directly to GitHub Markdown editing box. GitHub generate link of the image.
+  ![image](https://user-images.githubusercontent.com/79841341/126900413-b10512d1-fdb2-4d0f-be0d-17bdad168aa1.png)
+  
+  ![image](https://user-images.githubusercontent.com/79841341/126900503-2f0b9f0d-9417-46c3-8dc7-890db08fdcc4.png)
+  
+  - Step 3: Commit the change to check the image in the view mode.
+- From image with link: Just use the syntax
+  ```Markdown
+  ![Description_of_image](link of the image)
+  ```
