@@ -1,10 +1,10 @@
 # This is my collection of useful Git and GitHub tips
 ---
-This is the place to practice Git and GitHub
+This is the place to note useful Git and GitHub
 ---
-### Some Steps to Remember First:
+### Steps to Create fresh Repo in GitHub and connect to local git folder:
 - Create new repo in GitHub
-- Get the syntax to connect the new repo with the local git directory
+- Get the links to connect the new repo with the local git directory
 - In the local directory:
   - Initiate: git init
   - Check git status: git status
@@ -13,6 +13,13 @@ This is the place to practice Git and GitHub
   - Some others useful: check the different with "git diff filename" and check the change of commit with "git log (filename(s))"
   - Then use the syntax from GitHub's new repo to push the commited file into GitHub
 
+### Foreigh Github repo => local folder by git clone => own Githut repo
+- Run git clone
+- Run git remote rm origin
+- Create new repo in Github
+- Run git add origin Link_of_the_new_repo
+- Run git push
+  
 ### Undo changes:
 There are couple of ways to reest our work as below:
 - git reset HEAD filename: Take the filename out of staging area
