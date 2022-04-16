@@ -78,4 +78,10 @@ HEAD commit is the commit that we are currently on.
   
   - Step 3: Commit the change to check the image in the view mode.
   
-
+### How to fork a repo
+- Fork the target in its Github page
+- Download the forked project into the local folder by git clone
+- Setting the project upstream to update from the parent repo.
+  - Get the parent HTTPS link.
+  - Use: git remote add upstream <The copied HTTPS>
+  - We can update that our forked repo by: git fetch upstream
